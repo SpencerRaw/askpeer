@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+sentence-transformers
+openai
+numpy
+pydantic
+python-dotenv
